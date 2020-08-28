@@ -3,7 +3,7 @@
     <v-menu top class="mr-10" >
       <template v-slot:activator="{ on, attrs }">
         <v-btn icon dark v-bind="attrs" v-on="on">
-          Idioma <img height="25" :src="`/images/${$i18n.locale}.svg`" alt="flag" class="w-8 h-8 ml-2">
+          {{ $t('select') }} <img height="25" :src="`/images/${$i18n.locale}.svg`" alt="flag" class="w-8 h-8 ml-2">
         </v-btn>
       </template>
 
