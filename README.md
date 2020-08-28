@@ -1,7 +1,9 @@
 
 ## Take a Look of project 
 <p> This website aims to create a communication between the email marketing sent and the user's click, listing the product that was selected. Vue.js, Html, css, javascript are used. </p>
+
 ![Alt Text](https://media.giphy.com/media/jolJ4dnOnCxrPVsYVN/giphy.gif)
+
 ## Project setup
 ```
 npm install
